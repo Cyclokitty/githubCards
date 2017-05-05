@@ -1,0 +1,12 @@
+$highlights: #DA291C;
+$roominess: 20px;
+
+.App {
+  margin: $roominess;
+  padding: $roominess;
+  text-align: center;
+}
+
+.App h2 {
+  color: $highlights;
+}
