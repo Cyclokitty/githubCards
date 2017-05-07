@@ -1,0 +1,19 @@
+$bg: #fffaf0;
+$text: #003DA5;
+$highlights: #DA291C;
+$darkText: #041E42;
+
+.Card {
+  border-radius: 10px;
+  background-color: $bg;
+  border: 2px solid $darkText;
+  box-shadow: 10px 10px 5px #888;
+  text: $text;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.name {
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.Card {
+  border-radius: 10px;
+  background-color: #fffaf0;
+  border: 2px solid #041E42;
+  box-shadow: 10px 10px 5px #888;
+  text: #003DA5;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px; }
+
+.name {
+  font-weight: bold; }
